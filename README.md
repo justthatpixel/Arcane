@@ -1,3 +1,7 @@
+#Explainable AI
+Explainable AI (XAI) refers to artificial intelligence systems designed to provide clear, understandable, and interpretable explanations for their decisions and actions. Unlike traditional "black box" AI models, which operate without transparency, XAI aims to make the internal workings and decision-making processes of AI systems accessible to humans. This involves several key aspects:
+
+
 # JavaFF2.1
 An implementation of the [FF](https://fai.cs.uni-saarland.de/hoffmann/ff.html) forward search planning system in Java. JavaFF 2.1 is itself a branch of [JavaFF](https://nms.kcl.ac.uk/planning/software/javaff.html) planner by Andrew Coles, to allow parsing and solving of PDDL 2.1 level 1 problems. Additional improvements include optimisation to enable order-of-magnitude speedups over vanilla JavaFF. This is most likely version 2.1.8, which supports STRIPS and ADL planning, but not metrics and temporal aspects. The code to do this exists within JavaFF but has been disabled (somewhere) as it was unnecessary for my purposes and introduced additional complexity. 
 
